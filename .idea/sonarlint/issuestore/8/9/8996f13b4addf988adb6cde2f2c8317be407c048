@@ -1,0 +1,10 @@
+
+`
+java:S1128"DRemove this unused import 'org.openqa.selenium.chrome.ChromeDriver'.(†È8ÊÎ¬ŸÂ.
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™ş8ÊÎ¬ŸÂ.
+W
+java:S1128":Remove this unused import 'org.openqa.selenium.WebDriver'.(ñšÿÀ8ÊÎ¬ŸÂ.
+S	java:S106("9Replace this use of System.out or System.err by a logger.(§ş¼·ÿÿÿÿÿ
+P
+java:S1128"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8‘ƒ±ŸÂ.
